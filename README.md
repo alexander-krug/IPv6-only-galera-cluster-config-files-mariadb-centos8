@@ -1,16 +1,23 @@
-# IPv6-only-galera-cluster-config-files-mariadb-centos8
+# How to set up a 3-server MariaDB mirroring setup under CentOS8
 This contains working config files for a 3-server MariaDB mirroring setup under CentOS8
 
-# How to set up a 3-server MariaDB mirroring setup under CentOS8
-
 ## Details of my working setup:
+
 MariaDB: MariaDB 10.3
+
 OS: CentOS8
+
 Kernel release: 4.18.0-147.3.1.el8_1.x86_64
 
+
+
 ## Follow the Guide from digitalocean with some expections
+
 Original link: https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mariadb-on-centos-7-servers
+
 Internet archive link, in case something changes/disappears: https://web.archive.org/web/20230000000000*/https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mariadb-on-centos-7-servers
+
+
 
 ## Here are the exceptions
 
